@@ -4,4 +4,4 @@ The topic of this project was Debt Payback Prediction using Maching Learning Alg
 > - Ankit Yadav
 > - Naresh Balamurugan
 > - Sumit Bhong
-The dataset used is given in this [Link](https://www.kaggle.com/c/home-credit-default-risk/data). We analyzed and compared the performances of two models - Logistic Regression and Random Forests.
+> The dataset used is given in this [Link](https://www.kaggle.com/c/home-credit-default-risk/data). We analyzed and compared the performances of two models - Logistic Regression and Random Forests.
